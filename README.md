@@ -1,5 +1,5 @@
 # Knowledge Base Completion (kbc)
-This code reproduces results in [Tensor Decompositions for Temporal Knowledge Base Completion](https://arxiv.org/abs/todo) (ICLR 2020).
+This code reproduces results in [Tensor Decompositions for Temporal Knowledge Base Completion](https://arxiv.org/abs/2004.04926) (ICLR 2020).
 
 ## Installation
 Create a conda environment with pytorch and scikit-learn :
